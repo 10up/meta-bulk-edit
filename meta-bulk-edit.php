@@ -3,8 +3,10 @@
 Plugin Name: Meta Field Bulk Edit
 Description: Map a meta field to a CPT for quick-edit & bulk-edit capabilities.
 Version: 1.0.0
-Author: Brainstorm Media
-Author URI: http://brainstormmedia.com
+Author: Mike Jordan, 10up
+Author URI: http://knowmike.com
+License: GPLv2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 add_action( 'init', 'Storm_Meta_Bulk_Edit::get_instance' );
